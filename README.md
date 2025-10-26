@@ -1,4 +1,4 @@
-FREE Textbooks used in the Libre Scholar lecture videos. I have split larger books into parts to make them easier to download.
+FREE Textbooks. I have split larger books into parts to make them easier to download.
 <br>
 <img src="1.jpg" alt="libre scholar" width="500"/>
 <br>
