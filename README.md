@@ -1,7 +1,9 @@
 FREE Textbooks. I have split larger books into parts to make them easier to download. Video lectures to accompany textbooks found here: "https://www.youtube.com/@LibreScholar".
 <br>
 <br>
+<p align="center">
 <img src="1.jpg" alt="libre scholar" width="500"/>
+</p>
 <br>
 # Mathematics
   > Precalculus [PART1](Precalculus_2e_openstax_1.pdf) and [PART1.5](Precalculus_2e_openstax_2.pdf) <br>
