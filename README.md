@@ -1,4 +1,4 @@
-FREE Textbooks. I have split larger books into parts to make them easier to download.
+FREE Textbooks. I have split larger books into parts to make them easier to download. Video lectures to accompany textbooks found here: "https://www.youtube.com/@LibreScholar".
 <br>
 <br>
 <img src="1.jpg" alt="libre scholar" width="500"/>
