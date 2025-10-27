@@ -14,5 +14,4 @@ FREE Textbooks mostly from OpenStax. But that's not to say I won't use textbooks
   > Chemistry [PART1](Chemistry_2e_openstax_1.pdf) [PART1.5](Chemistry_2e_openstax_2.pdf) <br>
   > Introduction to Computer Science [PART1](Introduction_To_Computer_Science_openstax.pdf) <br>
   > Physics [PART1](Physics1_openstax_1.pdf) [PART1.5](Physics1_openstax_2.pdf) [PART2](Physics2_openstax.pdf) [PART3](Physics3_openstax.pdf)
-# Humanities
 
