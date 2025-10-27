@@ -6,7 +6,7 @@ FREE Textbooks mostly from OpenStax. But that's not to say I won't use textbooks
 </p>
 
 # Mathematics
-  > Precalculus [PART1](Precalculus_2e_openstax_1.pdf) and [PART1.5](Precalculus_2e_openstax_2.pdf) <br>
+  > Precalculus [PART1](Precalculus_2e_openstax_1.pdf) [PART1.5](Precalculus_2e_openstax_2.pdf) <br>
   > Calculus [PART1](Calculus1_openstax.pdf) [PART2](Calculus2_openstax.pdf) [PART3](Calculus3_openstax_1.pdf) [PART3.5](Calculus3_openstax_2.pdf)
 # Science
   > Astronomy [PART1](Astronomy_2e_openstax_1.pdf) [PART1.5](Astronomy_2e_openstax_2.pdf) <br>
