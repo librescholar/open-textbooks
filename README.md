@@ -5,12 +5,17 @@ FREE Textbooks mostly from OpenStax. But that's not to say I won't use textbooks
 <img src="1.jpg" alt="libre scholar" width="500"/>
 </p>
 
-# Mathematics
-  > Calculus [PART1](Calculus1_openstax.pdf) [PART2](Calculus2_openstax.pdf) [PART3](Calculus3_openstax_1.pdf) [PART3.5](Calculus3_openstax_2.pdf)
-# Science
-  > Astronomy [PART1](Astronomy_2e_openstax_1.pdf) [PART1.5](Astronomy_2e_openstax_2.pdf) <br>
-  > Biology [PART1](Biology_2e_openstax_1.pdf) [PART1.5](Biology_2e_openstax_2.pdf) <br>
-  > Chemistry [PART1](Chemistry_2e_openstax_1.pdf) [PART1.5](Chemistry_2e_openstax_2.pdf) <br>
-  > Introduction to Computer Science [PART1](Introduction_To_Computer_Science_openstax.pdf) <br>
-  > Physics [PART1](Physics1_openstax_1.pdf) [PART1.5](Physics1_openstax_2.pdf) [PART2](Physics2_openstax.pdf) [PART3](Physics3_openstax.pdf)
+# By Topic
+  > Astronomy [PART1](Astronomy_2e_openstax_1.pdf) [PART2](Astronomy_2e_openstax_2.pdf) <br>
+  > Biology [PART1](Biology_2e_openstax_1.pdf) [PART2](Biology_2e_openstax_2.pdf) <br>
+  > Calculus I [TEXT](Calculus1_openstax.pdf) <br>
+  > Calculus II  [TEXT](Calculus2_openstax.pdf) <br>
+  > Calculus III [PART1](Calculus3_openstax_1.pdf) [PART2](Calculus3_openstax_2.pdf) <br>
+  > Chemistry [PART1](Chemistry_2e_openstax_1.pdf) [PART2](Chemistry_2e_openstax_2.pdf) <br>
+  > Computer Science [TEXT](Introduction_To_Computer_Science_openstax.pdf) <br>
+  > Japanese A1 [PART1](Japanese_Starter_irodori_1.pdf) [PART2](Japanese_Starter_irodori_2.pdf) [PART3](Japanese_Starter_irodori_3.pdf) <br>
+  > Physics I [PART1](Physics1_openstax_1.pdf) [PART2](Physics1_openstax_2.pdf) <br>
+  > Physics II [TEXT](Physics2_openstax.pdf) <br>
+  > Physics III [TEXT](Physics3_openstax.pdf)
+
 
