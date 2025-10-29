@@ -15,6 +15,7 @@ FREE Textbooks mostly from OpenStax. But that's not to say I won't use textbooks
   > Computer Science [TEXT](Introduction_To_Computer_Science_openstax.pdf) <br>
   > Physics I [PART1](Physics1_openstax_1.pdf) [PART2](Physics1_openstax_2.pdf) <br>
   > Physics II [TEXT](Physics2_openstax.pdf) <br>
-  > Physics III [TEXT](Physics3_openstax.pdf)
+  > Physics III [TEXT](Physics3_openstax.pdf) <br>
+  > Precalculus [PART1](Precalculus_2e_openstax_1.pdf) [PART2](Precalculus_2e_openstax_2.pdf)
 
 
