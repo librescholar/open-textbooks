@@ -12,7 +12,6 @@ FREE Textbooks mostly from OpenStax. But that's not to say I won't use textbooks
   > Calculus II  [TEXT](Calculus2_openstax.pdf) <br>
   > Calculus III [PART1](Calculus3_openstax_1.pdf) [PART2](Calculus3_openstax_2.pdf) <br>
   > Chemistry [PART1](Chemistry_2e_openstax_1.pdf) [PART2](Chemistry_2e_openstax_2.pdf) <br>
-  > Computer Science [TEXT](Introduction_To_Computer_Science_openstax.pdf) <br>
   > Physics I [PART1](Physics1_openstax_1.pdf) [PART2](Physics1_openstax_2.pdf) <br>
   > Physics II [TEXT](Physics2_openstax.pdf) <br>
   > Physics III [TEXT](Physics3_openstax.pdf) <br>
