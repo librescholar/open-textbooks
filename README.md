@@ -15,6 +15,7 @@ FREE Textbooks mostly from OpenStax. But that's not to say I won't use textbooks
   > Physics I [PART1](Physics1_openstax_1.pdf) [PART2](Physics1_openstax_2.pdf) <br>
   > Physics II [TEXT](Physics2_openstax.pdf) <br>
   > Physics III [TEXT](Physics3_openstax.pdf) <br>
-  > Precalculus [PART1](Precalculus_2e_openstax_1.pdf) [PART2](Precalculus_2e_openstax_2.pdf)
+  > Precalculus [PART1](Precalculus_2e_openstax_1.pdf) [PART2](Precalculus_2e_openstax_2.pdf) <br>
+  > Python Programming [TEXT(Python_Programming_openstax.pdf)
 
 
